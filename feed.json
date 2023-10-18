@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "orch",
     "description": "",
-    "home_page_url": "https://riflash.github.io/orchid",
-    "feed_url": "https://riflash.github.io/orchid/feed.json",
+    "home_page_url": "https://orchid-4mj.pages.dev",
+    "feed_url": "https://orchid-4mj.pages.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "dio"
     },
     "items": [
         {
-            "id": "https://riflash.github.io/orchid/test-git-cloud.html",
-            "url": "https://riflash.github.io/orchid/test-git-cloud.html",
+            "id": "https://orchid-4mj.pages.dev/test-git-cloud.html",
+            "url": "https://orchid-4mj.pages.dev/test-git-cloud.html",
             "title": "test git cloud",
             "summary": "prova",
             "content_html": "\n  <p>\n    prova\n  </p>",
-            "image": "https://riflash.github.io/orchid/media/posts/2/9.jpg",
+            "image": "https://orchid-4mj.pages.dev/media/posts/2/9.jpg",
             "author": {
                 "name": "dio"
             },
@@ -25,12 +25,12 @@
             "date_modified": "2023-10-18T19:04:35+02:00"
         },
         {
-            "id": "https://riflash.github.io/orchid/orch.html",
-            "url": "https://riflash.github.io/orchid/orch.html",
+            "id": "https://orchid-4mj.pages.dev/orch.html",
+            "url": "https://orchid-4mj.pages.dev/orch.html",
             "title": "orch",
             "summary": "orchid test",
             "content_html": "\n  <p>\n    orchid test\n  </p>",
-            "image": "https://riflash.github.io/orchid/media/posts/1/6.jpg",
+            "image": "https://orchid-4mj.pages.dev/media/posts/1/6.jpg",
             "author": {
                 "name": "dio"
             },

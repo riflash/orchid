@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://riflash.github.io/orchid/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://orchid-4mj.pages.dev/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://riflash.github.io/orchid/</loc>
+<loc>https://orchid-4mj.pages.dev/</loc>
 </url>
 <url>
-<loc>https://riflash.github.io/orchid/orch.html</loc>
+<loc>https://orchid-4mj.pages.dev/orch.html</loc>
 <lastmod>2023-10-18T17:03:59+02:00</lastmod>
 <image:image>
-<image:loc>https://riflash.github.io/orchid/media/posts/1/6.jpg</image:loc>
+<image:loc>https://orchid-4mj.pages.dev/media/posts/1/6.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://riflash.github.io/orchid/test-git-cloud.html</loc>
+<loc>https://orchid-4mj.pages.dev/test-git-cloud.html</loc>
 <lastmod>2023-10-18T19:04:35+02:00</lastmod>
 <image:image>
-<image:loc>https://riflash.github.io/orchid/media/posts/2/9.jpg</image:loc>
+<image:loc>https://orchid-4mj.pages.dev/media/posts/2/9.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>orch</title>
-    <link href="https://riflash.github.io/orchid/feed.xml" rel="self" />
-    <link href="https://riflash.github.io/orchid" />
+    <link href="https://orchid-4mj.pages.dev/feed.xml" rel="self" />
+    <link href="https://orchid-4mj.pages.dev" />
     <updated>2023-10-18T19:04:35+02:00</updated>
     <author>
         <name>dio</name>
     </author>
-    <id>https://riflash.github.io/orchid</id>
+    <id>https://orchid-4mj.pages.dev</id>
 
     <entry>
         <title>test git cloud</title>
         <author>
             <name>dio</name>
         </author>
-        <link href="https://riflash.github.io/orchid/test-git-cloud.html"/>
-        <id>https://riflash.github.io/orchid/test-git-cloud.html</id>
-        <media:content url="https://riflash.github.io/orchid/media/posts/2/9.jpg" medium="image" />
+        <link href="https://orchid-4mj.pages.dev/test-git-cloud.html"/>
+        <id>https://orchid-4mj.pages.dev/test-git-cloud.html</id>
+        <media:content url="https://orchid-4mj.pages.dev/media/posts/2/9.jpg" medium="image" />
 
         <updated>2023-10-18T19:04:35+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://riflash.github.io/orchid/media/posts/2/9.jpg" alt="" />
+                        <img src="https://orchid-4mj.pages.dev/media/posts/2/9.jpg" alt="" />
                     prova
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://riflash.github.io/orchid/media/posts/2/9.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://orchid-4mj.pages.dev/media/posts/2/9.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     prova
@@ -40,20 +40,20 @@
         <author>
             <name>dio</name>
         </author>
-        <link href="https://riflash.github.io/orchid/orch.html"/>
-        <id>https://riflash.github.io/orchid/orch.html</id>
-        <media:content url="https://riflash.github.io/orchid/media/posts/1/6.jpg" medium="image" />
+        <link href="https://orchid-4mj.pages.dev/orch.html"/>
+        <id>https://orchid-4mj.pages.dev/orch.html</id>
+        <media:content url="https://orchid-4mj.pages.dev/media/posts/1/6.jpg" medium="image" />
 
         <updated>2023-10-18T17:03:59+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://riflash.github.io/orchid/media/posts/1/6.jpg" alt="" />
+                        <img src="https://orchid-4mj.pages.dev/media/posts/1/6.jpg" alt="" />
                     orchid test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://riflash.github.io/orchid/media/posts/1/6.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://orchid-4mj.pages.dev/media/posts/1/6.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     orchid test
