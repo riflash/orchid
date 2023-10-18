@@ -3,12 +3,38 @@
     <title>orch</title>
     <link href="https://riflash.github.io/orchid/feed.xml" rel="self" />
     <link href="https://riflash.github.io/orchid" />
-    <updated>2023-10-18T17:03:59+02:00</updated>
+    <updated>2023-10-18T19:04:35+02:00</updated>
     <author>
         <name>dio</name>
     </author>
     <id>https://riflash.github.io/orchid</id>
 
+    <entry>
+        <title>test git cloud</title>
+        <author>
+            <name>dio</name>
+        </author>
+        <link href="https://riflash.github.io/orchid/test-git-cloud.html"/>
+        <id>https://riflash.github.io/orchid/test-git-cloud.html</id>
+        <media:content url="https://riflash.github.io/orchid/media/posts/2/9.jpg" medium="image" />
+
+        <updated>2023-10-18T19:04:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://riflash.github.io/orchid/media/posts/2/9.jpg" alt="" />
+                    prova
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://riflash.github.io/orchid/media/posts/2/9.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    prova
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>orch</title>
         <author>
