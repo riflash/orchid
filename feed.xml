@@ -3,12 +3,35 @@
     <title>orch</title>
     <link href="https://orchid-4mj.pages.dev/feed.xml" rel="self" />
     <link href="https://orchid-4mj.pages.dev" />
-    <updated>2023-10-18T19:04:35+02:00</updated>
+    <updated>2023-10-19T18:35:16+02:00</updated>
     <author>
         <name>dio</name>
     </author>
     <id>https://orchid-4mj.pages.dev</id>
 
+    <entry>
+        <title>terzo post</title>
+        <author>
+            <name>dio</name>
+        </author>
+        <link href="https://orchid-4mj.pages.dev/terzo-post.html"/>
+        <id>https://orchid-4mj.pages.dev/terzo-post.html</id>
+
+        <updated>2023-10-19T18:35:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                    terzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    terzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo post
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>test git cloud</title>
         <author>
