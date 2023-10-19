@@ -3,12 +3,35 @@
     <title>orch</title>
     <link href="https://orchid-4mj.pages.dev/feed.xml" rel="self" />
     <link href="https://orchid-4mj.pages.dev" />
-    <updated>2023-10-19T18:37:56+02:00</updated>
+    <updated>2023-10-19T18:39:34+02:00</updated>
     <author>
         <name>dio</name>
     </author>
     <id>https://orchid-4mj.pages.dev</id>
 
+    <entry>
+        <title>quarto post</title>
+        <author>
+            <name>dio</name>
+        </author>
+        <link href="https://orchid-4mj.pages.dev/quarto-post.html"/>
+        <id>https://orchid-4mj.pages.dev/quarto-post.html</id>
+
+        <updated>2023-10-19T18:39:34+02:00</updated>
+            <summary>
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    test
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>terzo post</title>
         <author>
