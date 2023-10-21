@@ -3,14 +3,14 @@
     <title>orch</title>
     <link href="https://orchid-4mj.pages.dev/feed.xml" rel="self" />
     <link href="https://orchid-4mj.pages.dev" />
-    <updated>2023-10-20T16:51:14+02:00</updated>
+    <updated>2023-10-21T13:14:02+02:00</updated>
     <author>
         <name>dio</name>
     </author>
     <id>https://orchid-4mj.pages.dev</id>
 
     <entry>
-        <title>prova sincro</title>
+        <title>prova sincro test</title>
         <author>
             <name>dio</name>
         </author>
@@ -18,7 +18,7 @@
         <id>https://orchid-4mj.pages.dev/prova-sincro.html</id>
         <media:content url="https://orchid-4mj.pages.dev/media/posts/6/1024px-Labiata.jpg" medium="image" />
 
-        <updated>2023-10-20T16:51:14+02:00</updated>
+        <updated>2023-10-21T13:14:02+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://orchid-4mj.pages.dev/media/posts/6/1024px-Labiata.jpg" alt="" />
