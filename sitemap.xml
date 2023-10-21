@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://orchid-4mj.pages.dev/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://cheopet.it/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://orchid-4mj.pages.dev/</loc>
+<loc>https://cheopet.it/</loc>
 </url>
 <url>
-<loc>https://orchid-4mj.pages.dev/ancora-un-post.html</loc>
+<loc>https://cheopet.it/ancora-un-post.html</loc>
 <lastmod>2023-10-20T13:24:49+02:00</lastmod>
 </url>
 <url>
-<loc>https://orchid-4mj.pages.dev/orch.html</loc>
+<loc>https://cheopet.it/orch.html</loc>
 <lastmod>2023-10-18T17:03:59+02:00</lastmod>
 <image:image>
-<image:loc>https://orchid-4mj.pages.dev/media/posts/1/6.jpg</image:loc>
+<image:loc>https://cheopet.it/media/posts/1/6.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://orchid-4mj.pages.dev/page/2/</loc>
+<loc>https://cheopet.it/page/2/</loc>
 </url>
 <url>
-<loc>https://orchid-4mj.pages.dev/prova-sincro.html</loc>
+<loc>https://cheopet.it/prova-sincro.html</loc>
 <lastmod>2023-10-21T13:14:02+02:00</lastmod>
 <image:image>
-<image:loc>https://orchid-4mj.pages.dev/media/posts/6/1024px-Labiata.jpg</image:loc>
+<image:loc>https://cheopet.it/media/posts/6/1024px-Labiata.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://orchid-4mj.pages.dev/quarto-post.html</loc>
+<loc>https://cheopet.it/quarto-post.html</loc>
 <lastmod>2023-10-19T18:39:34+02:00</lastmod>
 </url>
 <url>
-<loc>https://orchid-4mj.pages.dev/terzo-post.html</loc>
+<loc>https://cheopet.it/terzo-post.html</loc>
 <lastmod>2023-10-19T18:37:56+02:00</lastmod>
 </url>
 <url>
-<loc>https://orchid-4mj.pages.dev/test-git-cloud.html</loc>
+<loc>https://cheopet.it/test-git-cloud.html</loc>
 <lastmod>2023-10-18T19:04:35+02:00</lastmod>
 <image:image>
-<image:loc>https://orchid-4mj.pages.dev/media/posts/2/9.jpg</image:loc>
+<image:loc>https://cheopet.it/media/posts/2/9.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

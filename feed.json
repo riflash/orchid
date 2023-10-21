@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "orch",
     "description": "",
-    "home_page_url": "https://orchid-4mj.pages.dev",
-    "feed_url": "https://orchid-4mj.pages.dev/feed.json",
+    "home_page_url": "https://cheopet.it",
+    "feed_url": "https://cheopet.it/feed.json",
     "user_comment": "",
     "author": {
         "name": "dio"
     },
     "items": [
         {
-            "id": "https://orchid-4mj.pages.dev/prova-sincro.html",
-            "url": "https://orchid-4mj.pages.dev/prova-sincro.html",
+            "id": "https://cheopet.it/prova-sincro.html",
+            "url": "https://cheopet.it/prova-sincro.html",
             "title": "prova sincro test",
             "summary": "prova sincro",
             "content_html": "\n  <p>\n    prova sincro\n  </p>",
-            "image": "https://orchid-4mj.pages.dev/media/posts/6/1024px-Labiata.jpg",
+            "image": "https://cheopet.it/media/posts/6/1024px-Labiata.jpg",
             "author": {
                 "name": "dio"
             },
@@ -25,8 +25,8 @@
             "date_modified": "2023-10-21T13:14:02+02:00"
         },
         {
-            "id": "https://orchid-4mj.pages.dev/ancora-un-post.html",
-            "url": "https://orchid-4mj.pages.dev/ancora-un-post.html",
+            "id": "https://cheopet.it/ancora-un-post.html",
+            "url": "https://cheopet.it/ancora-un-post.html",
             "title": "ancora un post",
             "summary": "ancora un post",
             "content_html": "\n  <p>\n    ancora un post\n  </p>",
@@ -39,8 +39,8 @@
             "date_modified": "2023-10-20T13:24:49+02:00"
         },
         {
-            "id": "https://orchid-4mj.pages.dev/quarto-post.html",
-            "url": "https://orchid-4mj.pages.dev/quarto-post.html",
+            "id": "https://cheopet.it/quarto-post.html",
+            "url": "https://cheopet.it/quarto-post.html",
             "title": "quarto post",
             "summary": "test",
             "content_html": "\n  <p>\n    test\n  </p>",
@@ -53,8 +53,8 @@
             "date_modified": "2023-10-19T18:39:34+02:00"
         },
         {
-            "id": "https://orchid-4mj.pages.dev/terzo-post.html",
-            "url": "https://orchid-4mj.pages.dev/terzo-post.html",
+            "id": "https://cheopet.it/terzo-post.html",
+            "url": "https://cheopet.it/terzo-post.html",
             "title": "terzo post",
             "summary": "terzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo post",
             "content_html": "\n  <p>\n    terzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo post\n  </p>",
@@ -67,12 +67,12 @@
             "date_modified": "2023-10-19T18:37:56+02:00"
         },
         {
-            "id": "https://orchid-4mj.pages.dev/test-git-cloud.html",
-            "url": "https://orchid-4mj.pages.dev/test-git-cloud.html",
+            "id": "https://cheopet.it/test-git-cloud.html",
+            "url": "https://cheopet.it/test-git-cloud.html",
             "title": "test git cloud",
             "summary": "prova",
             "content_html": "\n  <p>\n    prova\n  </p>",
-            "image": "https://orchid-4mj.pages.dev/media/posts/2/9.jpg",
+            "image": "https://cheopet.it/media/posts/2/9.jpg",
             "author": {
                 "name": "dio"
             },
@@ -82,12 +82,12 @@
             "date_modified": "2023-10-18T19:04:35+02:00"
         },
         {
-            "id": "https://orchid-4mj.pages.dev/orch.html",
-            "url": "https://orchid-4mj.pages.dev/orch.html",
+            "id": "https://cheopet.it/orch.html",
+            "url": "https://cheopet.it/orch.html",
             "title": "orch",
             "summary": "orchid test",
             "content_html": "\n  <p>\n    orchid test\n  </p>",
-            "image": "https://orchid-4mj.pages.dev/media/posts/1/6.jpg",
+            "image": "https://cheopet.it/media/posts/1/6.jpg",
             "author": {
                 "name": "dio"
             },

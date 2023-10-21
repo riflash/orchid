@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>orch</title>
-    <link href="https://orchid-4mj.pages.dev/feed.xml" rel="self" />
-    <link href="https://orchid-4mj.pages.dev" />
+    <link href="https://cheopet.it/feed.xml" rel="self" />
+    <link href="https://cheopet.it" />
     <updated>2023-10-21T13:14:02+02:00</updated>
     <author>
         <name>dio</name>
     </author>
-    <id>https://orchid-4mj.pages.dev</id>
+    <id>https://cheopet.it</id>
 
     <entry>
         <title>prova sincro test</title>
         <author>
             <name>dio</name>
         </author>
-        <link href="https://orchid-4mj.pages.dev/prova-sincro.html"/>
-        <id>https://orchid-4mj.pages.dev/prova-sincro.html</id>
-        <media:content url="https://orchid-4mj.pages.dev/media/posts/6/1024px-Labiata.jpg" medium="image" />
+        <link href="https://cheopet.it/prova-sincro.html"/>
+        <id>https://cheopet.it/prova-sincro.html</id>
+        <media:content url="https://cheopet.it/media/posts/6/1024px-Labiata.jpg" medium="image" />
 
         <updated>2023-10-21T13:14:02+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://orchid-4mj.pages.dev/media/posts/6/1024px-Labiata.jpg" alt="" />
+                        <img src="https://cheopet.it/media/posts/6/1024px-Labiata.jpg" alt="" />
                     prova sincro
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://orchid-4mj.pages.dev/media/posts/6/1024px-Labiata.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cheopet.it/media/posts/6/1024px-Labiata.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     prova sincro
@@ -40,8 +40,8 @@
         <author>
             <name>dio</name>
         </author>
-        <link href="https://orchid-4mj.pages.dev/ancora-un-post.html"/>
-        <id>https://orchid-4mj.pages.dev/ancora-un-post.html</id>
+        <link href="https://cheopet.it/ancora-un-post.html"/>
+        <id>https://cheopet.it/ancora-un-post.html</id>
 
         <updated>2023-10-20T13:24:49+02:00</updated>
             <summary>
@@ -63,8 +63,8 @@
         <author>
             <name>dio</name>
         </author>
-        <link href="https://orchid-4mj.pages.dev/quarto-post.html"/>
-        <id>https://orchid-4mj.pages.dev/quarto-post.html</id>
+        <link href="https://cheopet.it/quarto-post.html"/>
+        <id>https://cheopet.it/quarto-post.html</id>
 
         <updated>2023-10-19T18:39:34+02:00</updated>
             <summary>
@@ -86,8 +86,8 @@
         <author>
             <name>dio</name>
         </author>
-        <link href="https://orchid-4mj.pages.dev/terzo-post.html"/>
-        <id>https://orchid-4mj.pages.dev/terzo-post.html</id>
+        <link href="https://cheopet.it/terzo-post.html"/>
+        <id>https://cheopet.it/terzo-post.html</id>
 
         <updated>2023-10-19T18:37:56+02:00</updated>
             <summary>
@@ -109,20 +109,20 @@
         <author>
             <name>dio</name>
         </author>
-        <link href="https://orchid-4mj.pages.dev/test-git-cloud.html"/>
-        <id>https://orchid-4mj.pages.dev/test-git-cloud.html</id>
-        <media:content url="https://orchid-4mj.pages.dev/media/posts/2/9.jpg" medium="image" />
+        <link href="https://cheopet.it/test-git-cloud.html"/>
+        <id>https://cheopet.it/test-git-cloud.html</id>
+        <media:content url="https://cheopet.it/media/posts/2/9.jpg" medium="image" />
 
         <updated>2023-10-18T19:04:35+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://orchid-4mj.pages.dev/media/posts/2/9.jpg" alt="" />
+                        <img src="https://cheopet.it/media/posts/2/9.jpg" alt="" />
                     prova
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://orchid-4mj.pages.dev/media/posts/2/9.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cheopet.it/media/posts/2/9.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     prova
@@ -135,20 +135,20 @@
         <author>
             <name>dio</name>
         </author>
-        <link href="https://orchid-4mj.pages.dev/orch.html"/>
-        <id>https://orchid-4mj.pages.dev/orch.html</id>
-        <media:content url="https://orchid-4mj.pages.dev/media/posts/1/6.jpg" medium="image" />
+        <link href="https://cheopet.it/orch.html"/>
+        <id>https://cheopet.it/orch.html</id>
+        <media:content url="https://cheopet.it/media/posts/1/6.jpg" medium="image" />
 
         <updated>2023-10-18T17:03:59+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://orchid-4mj.pages.dev/media/posts/1/6.jpg" alt="" />
+                        <img src="https://cheopet.it/media/posts/1/6.jpg" alt="" />
                     orchid test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://orchid-4mj.pages.dev/media/posts/1/6.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cheopet.it/media/posts/1/6.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     orchid test

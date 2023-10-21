@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://orchid-4mj.pages.dev/sitemap.xml
+Sitemap: https://cheopet.it/sitemap.xml
