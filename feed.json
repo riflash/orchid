@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "orch",
+    "title": "cheopet-it",
     "description": "",
     "home_page_url": "https://cheopet.it",
     "feed_url": "https://cheopet.it/feed.json",
     "user_comment": "",
+    "icon": "https://cheopet.it/media/website/cheopet-logo.svg",
     "author": {
         "name": "dio"
     },
@@ -23,78 +24,6 @@
             ],
             "date_published": "2023-10-20T16:51:14+02:00",
             "date_modified": "2023-10-21T13:14:02+02:00"
-        },
-        {
-            "id": "https://cheopet.it/ancora-un-post.html",
-            "url": "https://cheopet.it/ancora-un-post.html",
-            "title": "ancora un post",
-            "summary": "ancora un post",
-            "content_html": "\n  <p>\n    ancora un post\n  </p>",
-            "author": {
-                "name": "dio"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-20T13:24:49+02:00",
-            "date_modified": "2023-10-20T13:24:49+02:00"
-        },
-        {
-            "id": "https://cheopet.it/quarto-post.html",
-            "url": "https://cheopet.it/quarto-post.html",
-            "title": "quarto post",
-            "summary": "test",
-            "content_html": "\n  <p>\n    test\n  </p>",
-            "author": {
-                "name": "dio"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-19T18:39:34+02:00",
-            "date_modified": "2023-10-19T18:39:34+02:00"
-        },
-        {
-            "id": "https://cheopet.it/terzo-post.html",
-            "url": "https://cheopet.it/terzo-post.html",
-            "title": "terzo post",
-            "summary": "terzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo post",
-            "content_html": "\n  <p>\n    terzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo post\n  </p>",
-            "author": {
-                "name": "dio"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-19T18:35:16+02:00",
-            "date_modified": "2023-10-19T18:37:56+02:00"
-        },
-        {
-            "id": "https://cheopet.it/test-git-cloud.html",
-            "url": "https://cheopet.it/test-git-cloud.html",
-            "title": "test git cloud",
-            "summary": "prova",
-            "content_html": "\n  <p>\n    prova\n  </p>",
-            "image": "https://cheopet.it/media/posts/2/9.jpg",
-            "author": {
-                "name": "dio"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-18T19:04:29+02:00",
-            "date_modified": "2023-10-18T19:04:35+02:00"
-        },
-        {
-            "id": "https://cheopet.it/orch.html",
-            "url": "https://cheopet.it/orch.html",
-            "title": "orch",
-            "summary": "orchid test",
-            "content_html": "\n  <p>\n    orchid test\n  </p>",
-            "image": "https://cheopet.it/media/posts/1/6.jpg",
-            "author": {
-                "name": "dio"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-18T17:03:59+02:00",
-            "date_modified": "2023-10-18T17:03:59+02:00"
         }
     ]
 }

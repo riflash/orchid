@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>orch</title>
+    <title>cheopet-it</title>
     <link href="https://cheopet.it/feed.xml" rel="self" />
     <link href="https://cheopet.it" />
     <updated>2023-10-21T13:14:02+02:00</updated>
@@ -31,127 +31,6 @@
                 
   <p>
     prova sincro
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>ancora un post</title>
-        <author>
-            <name>dio</name>
-        </author>
-        <link href="https://cheopet.it/ancora-un-post.html"/>
-        <id>https://cheopet.it/ancora-un-post.html</id>
-
-        <updated>2023-10-20T13:24:49+02:00</updated>
-            <summary>
-                <![CDATA[
-                    ancora un post
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    ancora un post
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>quarto post</title>
-        <author>
-            <name>dio</name>
-        </author>
-        <link href="https://cheopet.it/quarto-post.html"/>
-        <id>https://cheopet.it/quarto-post.html</id>
-
-        <updated>2023-10-19T18:39:34+02:00</updated>
-            <summary>
-                <![CDATA[
-                    test
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    test
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>terzo post</title>
-        <author>
-            <name>dio</name>
-        </author>
-        <link href="https://cheopet.it/terzo-post.html"/>
-        <id>https://cheopet.it/terzo-post.html</id>
-
-        <updated>2023-10-19T18:37:56+02:00</updated>
-            <summary>
-                <![CDATA[
-                    terzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo post
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    terzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo postterzo post
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>test git cloud</title>
-        <author>
-            <name>dio</name>
-        </author>
-        <link href="https://cheopet.it/test-git-cloud.html"/>
-        <id>https://cheopet.it/test-git-cloud.html</id>
-        <media:content url="https://cheopet.it/media/posts/2/9.jpg" medium="image" />
-
-        <updated>2023-10-18T19:04:35+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://cheopet.it/media/posts/2/9.jpg" alt="" />
-                    prova
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://cheopet.it/media/posts/2/9.jpg" class="type:primaryImage" alt="" /></p>
-                
-  <p>
-    prova
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>orch</title>
-        <author>
-            <name>dio</name>
-        </author>
-        <link href="https://cheopet.it/orch.html"/>
-        <id>https://cheopet.it/orch.html</id>
-        <media:content url="https://cheopet.it/media/posts/1/6.jpg" medium="image" />
-
-        <updated>2023-10-18T17:03:59+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://cheopet.it/media/posts/1/6.jpg" alt="" />
-                    orchid test
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://cheopet.it/media/posts/1/6.jpg" class="type:primaryImage" alt="" /></p>
-                
-  <p>
-    orchid test
   </p>
             ]]>
         </content>
