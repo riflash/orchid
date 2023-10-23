@@ -3,34 +3,34 @@
     <title>cheopet-it</title>
     <link href="https://cheopet.it/feed.xml" rel="self" />
     <link href="https://cheopet.it" />
-    <updated>2023-10-21T13:14:02+02:00</updated>
+    <updated>2023-10-23T13:22:04+02:00</updated>
     <author>
         <name>dio</name>
     </author>
     <id>https://cheopet.it</id>
 
     <entry>
-        <title>prova sincro test</title>
+        <title>...in costruzione...</title>
         <author>
             <name>dio</name>
         </author>
         <link href="https://cheopet.it/prova-sincro.html"/>
         <id>https://cheopet.it/prova-sincro.html</id>
-        <media:content url="https://cheopet.it/media/posts/6/1024px-Labiata.jpg" medium="image" />
+        <media:content url="https://cheopet.it/media/posts/6/cheopet.webp" medium="image" />
 
-        <updated>2023-10-21T13:14:02+02:00</updated>
+        <updated>2023-10-23T13:22:04+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://cheopet.it/media/posts/6/1024px-Labiata.jpg" alt="" />
-                    prova sincro
+                        <img src="https://cheopet.it/media/posts/6/cheopet.webp" alt="" />
+                    :-)
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://cheopet.it/media/posts/6/1024px-Labiata.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cheopet.it/media/posts/6/cheopet.webp" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    prova sincro
+    :-)
   </p>
             ]]>
         </content>

@@ -5,7 +5,7 @@
     "home_page_url": "https://cheopet.it",
     "feed_url": "https://cheopet.it/feed.json",
     "user_comment": "",
-    "icon": "https://cheopet.it/media/website/cheopet-logo.svg",
+    "icon": "https://cheopet.it/media/website/logo-cheopet-ok.svg",
     "author": {
         "name": "dio"
     },
@@ -13,17 +13,17 @@
         {
             "id": "https://cheopet.it/prova-sincro.html",
             "url": "https://cheopet.it/prova-sincro.html",
-            "title": "prova sincro test",
-            "summary": "prova sincro",
-            "content_html": "\n  <p>\n    prova sincro\n  </p>",
-            "image": "https://cheopet.it/media/posts/6/1024px-Labiata.jpg",
+            "title": "...in costruzione...",
+            "summary": ":-)",
+            "content_html": "\n  <p>\n    :-)\n  </p>",
+            "image": "https://cheopet.it/media/posts/6/cheopet.webp",
             "author": {
                 "name": "dio"
             },
             "tags": [
             ],
             "date_published": "2023-10-20T16:51:14+02:00",
-            "date_modified": "2023-10-21T13:14:02+02:00"
+            "date_modified": "2023-10-23T13:22:04+02:00"
         }
     ]
 }
